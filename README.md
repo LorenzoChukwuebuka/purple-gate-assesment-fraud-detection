@@ -119,7 +119,6 @@ type FlaggedTransaction struct {
 - Vue 3 with Composition API
 - Vue Router for navigation
 - Leaflet.js for map visualization
-- Chart.js for time-series data visualization
 - Axios for API communication
 
 ## Setup and Installation
